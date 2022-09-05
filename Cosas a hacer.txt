@@ -1,0 +1,13 @@
+*Agregar un indentificador unico a cada renglon, puede ser compuesto por:
+ el año de ultima vez visto + estado + sexo + edad 
+
+para esta hay que manipular la fecha y separar la edad
+agregar una columna al principio
+
+
+*Podemos tambien crear una funcion para conocer: 
+
+¿cuantos hombres y cuantas mujeres hay?
+¿Cuantos adultos y cuantos menores (siendo adultos >=18 años)
+¿Cuantas personas por estado de la republica?
+
