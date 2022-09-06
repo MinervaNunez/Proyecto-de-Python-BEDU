@@ -1,0 +1,1 @@
+Se presento la problematica al leer el archivo csv pues tenia una codificacion diferente y se corrigio agregando el codigo: encoding='ISO-8859-1'
